@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamHelper", "SteamHelper\SteamHelper.csproj", "{63E88FA7-6CFB-4413-82A7-D0A7B9AD518A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E88FA7-6CFB-4413-82A7-D0A7B9AD518A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{63E88FA7-6CFB-4413-82A7-D0A7B9AD518A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{63E88FA7-6CFB-4413-82A7-D0A7B9AD518A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E88FA7-6CFB-4413-82A7-D0A7B9AD518A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01379383-0ACC-4E2C-850D-6B5840E46DA8}
+	EndGlobalSection
+EndGlobal
