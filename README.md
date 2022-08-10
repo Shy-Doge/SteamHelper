@@ -10,7 +10,7 @@
 <h3 align="center">SteamHelper</h3>
 
   <p align="center">
-    O program that allows you to play other games using Steam features like Remote Play Together.
+    A program that allows you to play other games using Steam features like Remote Play Together.
     <br />
     <br />
     <a href="https://github.com/Shy-Doge/SteamHelper/issues">Report Bug</a>
